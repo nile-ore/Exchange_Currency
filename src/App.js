@@ -64,7 +64,7 @@ function App() {
   return (
     <>
       <h1>
-      Convert
+      Currency Exchange Calculator 💸 
       </h1>
 
       <CurrencyRow 

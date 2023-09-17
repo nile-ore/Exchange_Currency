@@ -5,7 +5,10 @@ body{
   align-items: center;
   min-height: 100vh;
   text-align: center;
-  background-color: #928e85;
+  color: aliceblue;
+  /*background-color: #928e85;*/
+  background-image: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)),url("bck.png");
+
 }
 
 h1{
